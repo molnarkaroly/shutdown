@@ -5,13 +5,18 @@ Ha a felhasználó megnyomja a "Start" gombot, a kód beolvassa az óra, perc é
 
 
 Használat:
-töltsd le a zip fájlt
-bontsd ki a shutdown.py ás a shutdown_bat.bat fájlt helyezd át a C:\ Users\ %USERPROFILE%\"*" helyre
-nyisd meg a digital-7.ttf fájlt és telepítsd
-csinálj egy uj parancsikont a shutdown_bat.bat fájlból az asztalra.
-jobbklick tulajdonságokban válaszd ki az ikoncsere opciót és cseréld az ikont a SHTOPPER.ico fájlra
 
- Ha a program nem indul el vagy hibát ír ki ellenőrizd hogy a gépeden 3.10es verziós python van e vagy tényleg ott van e ahol a shutdown_bat.bat fájlban meg van addva, és írd át a hibát.
+-töltsd le a zip fájlt
 
+-bontsd ki a shutdown.py ás a shutdown_bat.bat fájlt helyezd át a C:\ Users\ %USERPROFILE%\"*" helyre
+
+-nyisd meg a digital-7.ttf fájlt és telepítsd
+
+-csinálj egy uj parancsikont a shutdown_bat.bat fájlból az asztalra.
+
+-jobbklick tulajdonságokban válaszd ki az ikoncsere opciót és cseréld az ikont a SHTOPPER.ico fájlra
+
+
+  Ha a program nem indul el vagy hibát ír ki ellenőrizd hogy a gépeden 3.10es verziós python van e vagy tényleg ott van e ahol a shutdown_bat.bat fájlban meg van addva, és írd át a hibát.
 
 Fejlesztés alatt...
