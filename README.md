@@ -4,9 +4,9 @@ Ez a kód egy Tkinter segítségével létrehozott grafikus felhasználói felü
 Ha a felhasználó megnyomja a "Start" gombot, a kód beolvassa az óra, perc és másodperc értékeket a beviteli mezőkből, majd kiszámolja az összesen hány másodpercre van szükség a megadott idő lejártáig. A kód utána végrehajt egy ciklust, amely visszaszámol a megadott időig, és az aktuális időt megjeleníti a címkében. A ciklus végén az ablakot bezárja.
 
 
-Használat:)
-töltsd le a zip fájlt)
-bontsd ki a shutdown.py ás a shutdown_bat.bat fájlt helyezd át a C:\ Users\ %USERPROFILE%\"*" helyre)
+Használat:
+töltsd le a zip fájlt
+bontsd ki a shutdown.py ás a shutdown_bat.bat fájlt helyezd át a C:\ Users\ %USERPROFILE%\"*" helyre
 nyisd meg a digital-7.ttf fájlt és telepítsd
 csinálj egy uj parancsikont a shutdown_bat.bat fájlból az asztalra.
 jobbklick tulajdonságokban válaszd ki az ikoncsere opciót és cseréld az ikont a SHTOPPER.ico fájlra
