@@ -50,13 +50,13 @@ def start():
 
     if total_seconds <= 0:
         time_label["text"] = "00:00:00"
-        #os.system('cmd/c "shutdown /h"') # Shutdown
+        os.system('cmd/c "shutdown"') # Shutdown "/h"
         root.destroy()
 
 start_button = tk.Button(root, text="Start", command=start)
 
 # Létrehozzuk a címkét az aktuális idő megjelenítéséhez
-time_label = tk.Label(root, text="00:00:00", font=("Diediedie", 30))
+time_label = tk.Label(root, text="00:00:00", font=("Digital-7", 30))
 
 # Elrendezzük az elemeket az ablakban
 ora.pack()
