@@ -8,15 +8,17 @@ Használat:
 
 -töltsd le a zip fájlt
 
--bontsd ki a shutdown.py ás a shutdown_bat.bat fájlt helyezd át a C:\ Users\ %USERPROFILE%\"*" helyre
+-bontsd ki a tip fájlt
 
--nyisd meg a digital-7.ttf fájlt és telepítsd
+- a Shutdown.exe parancsikont helyezdel az asztalon vagy ahol szeretnéd és használhatod is a programot :D
 
--csinálj egy uj parancsikont a shutdown_bat.bat fájlból az asztalra.
-
--jobbklick tulajdonságokban válaszd ki az ikoncsere opciót és cseréld az ikont a SHTOPPER.ico fájlra
-
-
-  Ha a program nem indul el vagy hibát ír ki ellenőrizd hogy a gépeden 3.10es verziós python van e vagy tényleg ott van e ahol a shutdown_bat.bat fájlban meg van addva, és írd át a hibát.
 
 Fejlesztés alatt...
+
+LESZ:
+
+-telepítő ami a fájlokat el rakja magától és ki rakja a parancs ikont az asztalra
+
+-meg lesz oldva rendesen a betűtipus 
+
+...
