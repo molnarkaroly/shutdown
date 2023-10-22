@@ -8,7 +8,7 @@ Használat:
 
 -töltsd le a zip fájlt
 
--bontsd ki a tip fájlt
+-bontsd ki a zip fájlt
 
 - a Shutdown.exe parancsikont helyezdel az asztalon vagy ahol szeretnéd és használhatod is a programot :D
 
