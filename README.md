@@ -6,6 +6,9 @@ Ha a felhasználó megnyomja a "Start" gombot, a kód beolvassa az óra, perc é
 
 Használat:
 
+EGY ELÍRÁS VAN A KÓDBAN HAMAROSAN JAVÍTVA LESZ 
+HA NEM MŰKÖDIK AKKOR ÍRJ RÁM INSTA DISCORD SNAP : molnarkaroly210
+
 -töltsd le a zip fájlt
 
 -bontsd ki a zip fájlt
