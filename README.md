@@ -6,14 +6,13 @@ Ha a felhasználó megnyomja a "Start" gombot, a kód beolvassa az óra, perc é
 
 Használat:
 
-HA NEM MŰKÖDIK AKKOR ÍRJ RÁM INSTA DISCORD SNAP : molnarkaroly210
 
 -töltsd le a zip fájlt
 
 -bontsd ki a zip fájlt
 
-- a Shutdown.exe parancsikont helyezdel az asztalon vagy ahol szeretnéd és használhatod is a programot :D
-
+(az exefájl-ról csak parancs ikon-t helyezz el az asztalon vagy ahol hasznáni szeretnéd )
+HA NEM MŰKÖDIK AKKOR ÍRJ RÁM INSTA; DISCORD; SNAP; : molnarkaroly210
 
 Fejlesztés alatt...
 
